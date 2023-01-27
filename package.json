@@ -1,0 +1,19 @@
+{
+  "name": "pageobjectmodeltestcafe",
+  "version": "1.0.0",
+  "description": "PageObjectModel testcafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilarpatino/PageObjectModelTestCafe.git"
+  },
+  "author": "Pilar Patiño Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pilarpatino/PageObjectModelTestCafe/issues"
+  },
+  "homepage": "https://github.com/pilarpatino/PageObjectModelTestCafe#readme"
+}

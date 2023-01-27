@@ -1,0 +1,1 @@
+import {ClientFunction} from 'testcafe'
